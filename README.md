@@ -1,2 +1,2 @@
-# NEU-LABORATORY-LOG
+# NEULibraryVisitorLog
 neu-library-visitor-log-nlec.vercel.app
